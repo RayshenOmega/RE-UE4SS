@@ -3,6 +3,8 @@ v3.1.0
 TBD
 ## New
 
+Switch to xmake from cmake, makes building much more streamlined - localcc
+
 ### General
 Added new docs pages for devlogs, C++ examples, C++ BP macros - Buckminsterfullerene
 
